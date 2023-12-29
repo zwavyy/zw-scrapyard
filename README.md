@@ -2,6 +2,12 @@
 
 Free &amp; Open Source Scrapyard Script for FiveM.
 
+## About
+
+- Scrapyard script for fivem ESX
+- Demolish car parts for a reward
+- [More info]()
+
 ## Installation
 
 Drag and drop file inside [resources] folder and configure as you like.
