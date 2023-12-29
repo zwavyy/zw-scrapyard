@@ -19,4 +19,5 @@ start zw-scrapyard
 You will need following scripts in your server:
 
 - [ESX 1.1 or older](https://github.com/esx-framework/esx_core/releases)
-- [Ox_lib](https://github.com/overextended/ox_lib/releases)
+- [ox_lib](https://github.com/overextended/ox_lib/releases)
+- [ox_target](https://github.com/overextended/ox_target/releases)
